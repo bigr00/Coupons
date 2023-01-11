@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
-options: "15d2973e7550c53bd16e9c0520a9dc7354abc0f9d42f9051ebaa2442feb7ee49"
-build_start_time: [1673364165, 83878993]
-build_end_time: [1673364165, 105630874]
-inputs:
-  "/Users/amaasing/Documents/GitHub/coupons/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1673364151, 226512432]
-  "/Users/amaasing/Documents/GitHub/coupons/macos/Runner/AppDelegate.swift": !private [1671105040, 0]
-  "/Users/amaasing/Documents/GitHub/coupons/macos/Runner/MainFlutterWindow.swift": !private [1671105040, 0]
